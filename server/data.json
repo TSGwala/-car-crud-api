@@ -1,0 +1,6 @@
+[
+    {"color": "blue", "make": "Toyota", "model": "Corolla", "reg_number": "CJ 12345"},
+    {"color": "orange", "make": "Ford", "model": "Fiesta", "reg_number": "CL 77790"},
+    {"color": "blue", "make": "Nissan", "model": "X-Trail", "reg_number": "CK 54321"}
+  ]
+  
